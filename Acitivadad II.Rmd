@@ -21,3 +21,16 @@ Autos_filtrados <- mtcars |>
   filter(hp > 100) 
 ```
 
+```{r}
+Autos_ordenados <- Autos_filtrados |> 
+  arrange(desc(hp))
+```
+
+```{r}
+autos_Seleccionados <- Autos_ordenados |> 
+  select(mpg,hp,wt)
+```
+
+
+
+
