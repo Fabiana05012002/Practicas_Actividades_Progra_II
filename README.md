@@ -31,3 +31,4 @@ Durante el curso, se desarrollarán diversos ejercicios y proyectos para poner e
 ### Contacto
 
 Si tienes alguna pregunta o consulta relacionada con el repositorio, puedes contactarme a través de mi correo electrónico: [[fabiana.hidalgo.fallas@gmail.com](mailto:fabiana.hidalgo.fallas@gmail.com){.email}]
+
