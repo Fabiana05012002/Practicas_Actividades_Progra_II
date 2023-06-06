@@ -40,3 +40,4 @@ promedios <- autos_Seleccionados |>
 
 
 
+
